@@ -26,7 +26,7 @@
 8. Готово!
 
 ## Настройка конфига
-Конфиг находится по пути: ***`...\BepInEx\config\org.floral.magearenaru.cfg`***
+Конфиг находится по пути: ***`...\BepInEx\config\org.floral.magearenaru.cfg`*** (появляется после первого запуска)
 ### Звуковая модель
 ```yaml
 [General]

@@ -5,7 +5,10 @@
 
 
 ## Установка
+# Лёгкая установка
+Скачайте [архив](https://flrl.art/mages) (BepInEx + VoiceModel + Плагин), распакуйте его в папку с игрой.
 
+# Тяжёлая установка
 1. Скачайте [BepInEx](https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.3/BepInEx_win_x64_5.4.23.3.zip), скопируйте содержимое архива в папку с игрой.
 2. Скомпилируйте или [скачайте](https://github.com/notflrl/magearena_ru/releases/download/master/MageArena_Ru.dll) плагин, скопируйте его в:
 ```

@@ -23,21 +23,21 @@ namespace MageArena_Ru
         KeyCode menuOpen                 = KeyCode.F2;
 
         // default
-        string[] fireball_command        = { "шар" };            /* original: ball */
-        string[] frostbolt_command       = { "холод" };          /* original: freeze */
-        string[] worm_command            = { "вход" };           /* original: worm */
-        string[] hole_command            = { "выход" };          /* original: hole */
-        string[] magicmissle_command     = { "атака" };          /* original: magic */
+        string[] fireball_command        = {};            /* original: ball */
+        string[] frostbolt_command       = {};          /* original: freeze */
+        string[] worm_command            = {};           /* original: worm */
+        string[] hole_command            = {};          /* original: hole */
+        string[] magicmissle_command     = {};          /* original: magic */
 
         // ?
-        string[] mirror_command          = { "зеркало" };        /* original: mirror */
+        string[] mirror_command          = {};        /* original: mirror */
 
         // unlockable
-        string[] poofspell_command       = { "blink" };          /* original: blink */
-        string[] thunderbolt_command     = { "thunderbolt" };    /* original: thunderbolt */
-        string[] blast_command           = { "два" };            /* original: dark blast */
-        string[] holylight_command       = { "divine" };         /* original: divine */
-        string[] wisp_command            = { "wisp" };           /* original: wisp */
+        string[] poofspell_command       = {};          /* original: blink */
+        string[] thunderbolt_command     = {};    /* original: thunderbolt */
+        string[] blast_command           = {};            /* original: dark blast */
+        string[] holylight_command       = {};         /* original: divine */
+        string[] wisp_command            = {};           /* original: wisp */
 
         // config
         private ConfigEntry<string> config_voiceModel;
